@@ -1,0 +1,42 @@
+_repo: Atlantis_17241
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Seltzer, Thomas
+    birthdate: 1873
+    deathdate: 1943
+    gutenberg_agent_id: '5085'
+    url: http://www.gutenberg.org/2009/agents/5085
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Seltzer_%28translator%29
+  - agent_name: Seltzer, Adele Szold
+    alias: Seltzer, Adele S.
+    birthdate: 1876
+    deathdate: 1940
+    gutenberg_agent_id: '7245'
+    url: http://www.gutenberg.org/2009/agents/7245
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hauptmann, Gerhart
+    alias: Hauptmann, Gerhart Johann Robert
+    birthdate: 1862
+    deathdate: 1946
+    gutenberg_agent_id: '3226'
+    url: http://www.gutenberg.org/2009/agents/3226
+    wikipedia: http://en.wikipedia.org/wiki/Gerhart_Hauptmann
+description: ''
+gutenberg_issued: '2005-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: Atlantis
+url: http://www.gutenberg.org/ebooks/17241
